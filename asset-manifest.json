@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-hook-reducer/static/css/main.f855e6bc.css",
+    "main.js": "/react-hook-reducer/static/js/main.c86b3e6d.js",
+    "static/js/787.78c11d9d.chunk.js": "/react-hook-reducer/static/js/787.78c11d9d.chunk.js",
+    "static/media/logo.svg": "/react-hook-reducer/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/react-hook-reducer/index.html",
+    "main.f855e6bc.css.map": "/react-hook-reducer/static/css/main.f855e6bc.css.map",
+    "main.c86b3e6d.js.map": "/react-hook-reducer/static/js/main.c86b3e6d.js.map",
+    "787.78c11d9d.chunk.js.map": "/react-hook-reducer/static/js/787.78c11d9d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.c86b3e6d.js"
+  ]
+}
